@@ -31,7 +31,7 @@ Somos uma Micro Empresa Individual (MEI) que procura fazer aplicativos para faci
         </a>
     </li>
     <li>
-        <a href="https://discord.gg/ngNedftF" target="__blank">
+        <a href="https://discord.gg/GCJvrngW6U" target="__blank">
             <img src="https://mkgcriacoes.com.br/imgs/discord_icon.png" height="30px">
             MkgCriações
         </a>
