@@ -43,6 +43,6 @@ Acesse nosso site agora e confira os nossos aplicativos e jogos
 <a href="https://mkgcriacoes.com.br">mkgcriacoes.com.br</a>
 
 ### Doação
-A maioria dos nossos aplicativos são gratuitos e possuem certos gastos.
-Caso você deseje doar, o nosso PIX é <b>pay@mkgcriacoes.com.br</b>
+A maioria dos nossos aplicativos são gratuitos, mas possuem certos gastos.
+Caso você deseje doar, o nosso PIX é <b>pay@mkgcriacoes.com.br</b><br/>
 Obrigado pelo apoio. Que Deus te abençoe e recompense grandemente.
